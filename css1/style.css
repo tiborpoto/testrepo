@@ -1,0 +1,43 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+ 
+
+h1 {
+    color: blue;
+    font-family: 'Roboto', sans-serif;;
+    text-align: center;
+    text-transform: lowercase;
+}
+
+h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#bioHeader {
+    color: brown;
+}
+
+#bioTudas {
+    color: aqua;
+}
+.content {
+    color: rgb(255, 0, 200);
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;;
+    text-align: left;
+}
+.bold {
+    font-weight: bold;
+}
+
+.img-div {
+    background-color: aquamarine;
+}
+.light {
+    background-color: black;
+}
+
+img {
+    width: 200px;
+    
+}
